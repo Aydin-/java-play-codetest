@@ -1,0 +1,14 @@
+[ {
+  "id" : 10000001,
+  "name" : "Bruce Cardenas",
+  "jointime" : "2014-07-04T04:53:42+0000"
+}, {
+  "id" : 10000002,
+  "name" : "Barrett Peterson",
+  "jointime" : "2014-10-24T04:46:24+0000"
+}, {
+  "id" : 10000000,
+  "name" : "Ulysses Leon",
+  "duetime" : "2014-06-18T13:26:56+0000",
+  "jointime" : "2015-04-08T19:47:16+0000"
+} ]
